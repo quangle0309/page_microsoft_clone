@@ -145,3 +145,7 @@
 .form-footer a:hover {
     text-decoration: underline;
 }
+
+.content-text-body {
+    width: 86%;
+}
